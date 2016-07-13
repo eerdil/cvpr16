@@ -1,7 +1,7 @@
 The implementation was used in:
 
 [1] Ertunc Erdil, Sinan Yildirim, Tolga Tasdizen, Mujdat Cetin, 
-ìMCMC Shape Sampling for Image Segmentation with Nonparametric Shape Priorsî, 
+‚ÄúMCMC Shape Sampling for Image Segmentation with Nonparametric Shape Priors‚Äù, 
 Computer Vision and Pattern Recognition, CVPR 2016, Las Vegas.
 
 Any papers using this code should cite [1] accordingly.
@@ -21,8 +21,6 @@ sure that your mex compiler works properly.
 If you still have problems, you can email me at ertuncerdil@sabanciuniv.edu
 I will do my best to help.
 
-As is, the code produces results on MNIST and aircraft datasets. You can create a new folder similar to them
-to test the algorithm on various data sets. Note that, you may also need to change some parameters
-in main_mcmc_shape_sampling.m where I tried to comment heavily.
+As is, the code produces results on MNIST and aircraft datasets. You can create a new folder similar to them to test the algorithm on various data sets. Note that, you may also need to change some parameters in main_mcmc_shape_sampling.m where I tried to comment heavily.
 
 Please also report any bug to ertuncerdil@sabanciuniv.edu
